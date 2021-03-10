@@ -2,13 +2,7 @@
 
 A full stack app initiated by @LillianToh
 
-![Logo](images/)
-
 Avenue is a full stack application that streamlines property information in one place. Built for property managers to service overseas property owners.
-
-## Demo
-
-![Demo](images/)
 
 ## To use this app, uou will need to install
 
@@ -58,24 +52,12 @@ Open a **new** terminal window and run `node model/database.js` in avenue root f
 - You can test your client app in `http://localhost:3000`
 - You can test your API in `http://localhost:5000/api`
 
-## Features
-
-![Features](images/)
-
 ## Built With
 
 - MySQL.
 - Node/Express.
 - Vue.
 - Bootstrap.
-
-## Database Schema
-
-![Schema](images/)
-
-## API Routes Plan
-
-![Routes](images/)
 
 ## Credit
 
